@@ -113,8 +113,8 @@ a:hover {
 header {
 	background: linear-gradient(
 		90deg,
-		#3187B8,
-		#0d3b58
+		#1ab8b0,
+		#25bfca
 	); 
 
 	/* background: #3187B8; */
@@ -342,8 +342,8 @@ footer {
 	align-items: center;
 	background: linear-gradient(
 		90deg,
-		#3187B8,
-		#0d3b58
+		#70aaa5,
+		#022033
 	); 
 	/* background: #3187b8; */
 }
