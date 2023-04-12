@@ -16,7 +16,7 @@ function About() {
 			</div>
             <div className="about-me">
                 <p>
-                    Hi I'm Haillander, Making an intentional career move into Software Development leveraging background in Mechanical Engineer
+                Hi I'm Haillander, Making an intentional career move into Software Development leveraging background in Mechanical Engineer
                 </p>
                 <p>
                 I have developed skills how machines and systems works and gain an Analytical Skills to solve complex problems. 
