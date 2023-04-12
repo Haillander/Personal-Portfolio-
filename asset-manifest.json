@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Personal-Portfolio-/static/css/main.7ec59057.css",
+    "main.js": "/Personal-Portfolio-/static/js/main.2eabaaa5.js",
+    "static/js/787.6fb929a7.chunk.js": "/Personal-Portfolio-/static/js/787.6fb929a7.chunk.js",
+    "static/media/portfolio.png": "/Personal-Portfolio-/static/media/portfolio.cde795db88250f995b22.png",
+    "static/media/Resume-Haillander.pdf": "/Personal-Portfolio-/static/media/Resume-Haillander.c6dd4436900e318c8921.pdf",
+    "static/media/contact.jpeg": "/Personal-Portfolio-/static/media/contact.d054c1c279d726f96848.jpeg",
+    "static/media/profile photo.jpeg": "/Personal-Portfolio-/static/media/profile photo.40b4e0c20e7614b6bd5a.jpeg",
+    "static/media/scheduler.png": "/Personal-Portfolio-/static/media/scheduler.d5d26fe0dd988ef56bab.png",
+    "static/media/note taker.png": "/Personal-Portfolio-/static/media/note taker.6668def51d317b9d9970.png",
+    "index.html": "/Personal-Portfolio-/index.html",
+    "main.7ec59057.css.map": "/Personal-Portfolio-/static/css/main.7ec59057.css.map",
+    "main.2eabaaa5.js.map": "/Personal-Portfolio-/static/js/main.2eabaaa5.js.map",
+    "787.6fb929a7.chunk.js.map": "/Personal-Portfolio-/static/js/787.6fb929a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ec59057.css",
+    "static/js/main.2eabaaa5.js"
+  ]
+}
