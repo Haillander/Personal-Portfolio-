@@ -16,13 +16,16 @@ function About() {
 			</div>
             <div className="about-me">
                 <p>
-                    Hi I'm Haillander an aspiring full-stack web developer based in Sydney, Australia. My journey into tech started at the end of 2022 when I decided to change career. I took the opportunity to reinvent myself and pursue a new and challenging career in web development.
+                    Hi I'm Haillander, Making an intentional career move into Software Development leveraging background in Mechanical Engineer
                 </p>
                 <p>
-                    I'm leveraging my Mechanical Engineer background to build a more intuitive user experience on the web.  My newly developed skills in JavaScript, CSS, React.js, and responsive web design. I’m excited to apply my skills as part of a fast-paced, quality-driven team to build better experiences on the web.
+                I have developed skills how machines and systems works and gain an Analytical Skills to solve complex problems. 
+                Studying Full Stack Web Development at The University of Sydney Coding Boot Camp.
                 </p>
                 <p>
-                    When I'm not coding I enjoy Traveling, and also spending time with my family and keeping health. 
+                innovative problem-solver who is passionate for Front-End Development as it satisfies my need for creativity and allows me 
+                to easily put my ideas into digital form and get results back quick. Strengths in communication, leadership, teamwork, project management.
+
                 </p>
             </div>
         </section>
