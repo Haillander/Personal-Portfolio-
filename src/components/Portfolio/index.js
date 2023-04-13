@@ -19,11 +19,11 @@ function Portfolio() {
                         class="card-img-top"
                     />
                     <div class="card-body">
-                        <p className="center">Portfolio</p>
-                        <a href="https://github.com/Haillander/Portfolio" target="_blank" rel="noopener noreferrer">
+                        <p className="center">Share Shed</p>
+                        <a href="https://github.com/wolldog/share-shed" target="_blank" rel="noopener noreferrer">
                             <button className="btn btn-primary">GitHub</button>
                         </a>
-                        <a href="https://haillander.github.io/Portfolio/" target="_blank" rel="noopener noreferrer">
+                        <a href="https://obscure-woodland-19082.herokuapp.com/" target="_blank" rel="noopener noreferrer">
                             <button className="btn btn-primary">Website</button>
                         </a>
                     </div>
@@ -38,7 +38,7 @@ function Portfolio() {
                         class="card-img-top"
                     />
                     <div class="card-body">
-                        <p className="center">Note Taker</p>
+                        <p className="center">City Finder</p>
                         <a href="https://github.com/NikTern/Project-1-CityFinder" target="_blank" rel="noopener noreferrer">
                             <button className="btn btn-primary">GitHub</button>
                         </a>
