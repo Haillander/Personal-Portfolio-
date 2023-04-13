@@ -1,6 +1,6 @@
 import React from 'react';
 import BudgetTracker from '../../assets/images/portfolio.png';
-import FoodieLove from '../../assets/images/note taker.png';
+import FoodieLove from '../../assets/images/City Finder.png';
 import ShopShop from '../../assets/images/scheduler.png';
 
 
@@ -39,10 +39,10 @@ function Portfolio() {
                     />
                     <div class="card-body">
                         <p className="center">Note Taker</p>
-                        <a href="https://github.com/Haillander/note-taker" target="_blank" rel="noopener noreferrer">
+                        <a href="https://github.com/NikTern/Project-1-CityFinder" target="_blank" rel="noopener noreferrer">
                             <button className="btn btn-primary">GitHub</button>
                         </a>
-                        <a href="https://note-takehai.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+                        <a href="https://niktern.github.io/Project-1-CityFinder/" target="_blank" rel="noopener noreferrer">
                             <button className="btn btn-primary">Website</button>
                         </a>
                     </div>
